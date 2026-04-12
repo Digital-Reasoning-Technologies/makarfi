@@ -22,12 +22,12 @@
       {
         "image": "/bg1.png",
         "title": "Makarfi – Agricultural Heart of Northern Kaduna",
-        "subtitle": "Makarfi Local Government Area is known for its farming communities and fertile lands in Kaduna State."
+        "subtitle": "Makarfi Local Government Area is known for its farming communities, fertile lands, and emerging position as a key agricultural hub in Kaduna State."
       },
       {
-        "image": "/bg1.png",
-        "title": "Makarfi – Community and Development",
-        "subtitle": "Farmers and traders across Makarfi contribute to food production and local commerce in Kaduna State."
+        "image": "/bg2.png",
+        "title": "Makarfi – A Community Rooted in Tradition and Progress",
+        "subtitle": "Farmers and traders across Makarfi contribute to food production and local commerce, with the area gaining new recognition for its agricultural potential."
       }
     ]
   },
@@ -35,43 +35,42 @@
     "sectionTitle": "About Makarfi",
     "generalInfoHeading": "General Information",
     "paragraphs": [
-      "Makarfi Local Government Area is located in the northern region of Kaduna State, Nigeria. The administrative headquarters is Makarfi town.",
-      "The LGA is home to Hausa, Fulani, and other communities. Agriculture is the main economic activity.",
-      "Farmers cultivate maize, millet, sorghum, beans, and groundnuts across the area."
+      "Makarfi Local Government Area is located in the northern region of Kaduna State, Nigeria. Its administrative headquarters is Makarfi town, which serves as the center for local governance and community activities.",
+      "Makarfi LGA was created in 1991 from the Ikara LGA. It has an area of 541 km² and a population of 146,259 at the 2006 census, with a more recent estimated population of around 150,000. The LGA lies within the Zazzau Emirate and is bordered by Ikara and Kudan LGAs and parts of Kano State."
     ],
     "readMoreHref": "/about",
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17051.244647029027!2d7.878620623619534!3d11.378712517447585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad842b1152d921%3A0x53b479d77f814efb!2sMakarfi%2C%20Kano!5e1!3m2!1sen!2sng!4v1773485988465!5m2!1sen!2sng"
   },
   "chairman": {
     "sectionTitle": "Message from the Chairman",
-    "name": "Executive Chairman, Makarfi Local Government",
+    "name": "Hon. Garba Muhammed Sabongari",
     "image": "/chairman.png",
     "messageParagraphs": [
-      "Welcome to the official website of Makarfi Local Government Area. Our administration is committed to improving infrastructure, agriculture, and public services for our communities.",
-      "Makarfi is blessed with hardworking farmers and vibrant markets that contribute to Kaduna State's development.",
-      "Through good governance and community collaboration, we aim to achieve sustainable development across the LGA."
+      "Welcome to the official website of Makarfi Local Government Area. Our administration is committed to strengthening agriculture, improving infrastructure, and enhancing public services for our communities.",
+      "Makarfi is blessed with hardworking farmers, vibrant markets, and a rich cultural heritage that contributes to Kaduna State's development. In collaboration with the state government, we have flagged off the Durum-Kuruntumawa road project, a major step toward correcting decades of neglect of rural infrastructure.",
+      "Through good governance and community collaboration, we aim to achieve sustainable development across the LGA, focusing on healthcare revitalisation and agricultural growth."
     ]
   },
   "agriculture": {
-    "sectionTitle": "Agriculture – Backbone of Makarfi",
+    "sectionTitle": "Economy – Driving Agricultural Development",
     "cards": [
       {
-        "title": "Maize Farming",
-        "subtitle": "Staple Crop",
-        "image": "/maize.jpeg",
-        "description": "Maize is widely cultivated across Makarfi communities and serves as a major staple crop."
+        "title": "Crop Farming",
+        "subtitle": "Maize, Millet & Groundnuts",
+        "image": "/maize.png",
+        "description": "Makarfi is known for producing crops like maize, millet, groundnuts, and beans, with farming being the main occupation of the people. The area is recognised as a key agricultural hub for maize, sugarcane, tomatoes, and soybeans."
       },
       {
-        "title": "Millet & Sorghum",
-        "subtitle": "Grain Production",
-        "image": "/yam.png",
-        "description": "Millet and sorghum are important grains grown by farmers across the LGA."
-      },
-      {
-        "title": "Livestock Rearing",
-        "subtitle": "Animal Husbandry",
+        "title": "Livestock Farming",
+        "subtitle": "Cattle, Goats & Poultry",
         "image": "/livestock.jpeg",
-        "description": "Cattle, goats, sheep, and poultry are raised across rural communities within Makarfi."
+        "description": "Livestock farming, including cattle and poultry rearing, is a significant part of the local economy. Small-scale trading and craftsmanship also contribute to the local economy."
+      },
+      {
+        "title": "Markets & Trade",
+        "subtitle": "Local Trading Hubs",
+        "image": "/market.png",
+        "description": "Small-scale trading and local industries contribute to the economic activities of the area, with markets such as the Gubuchi and Ruma markets attracting buyers and sellers from across the region."
       }
     ],
     "learnMoreText": "Learn More About Agriculture",
@@ -79,23 +78,16 @@
   },
   "news": {
     "sectionTitle": "Latest News",
-    "subtitle": "Stay informed about development projects, community programs, and government initiatives in Makarfi."
+    "subtitle": "Stay informed about development projects and community initiatives in Makarfi."
   },
   "footer": {
     "logo": "/logo.png",
     "logoAlt": "Makarfi LGA Logo",
-    "headquarters": "Headquarters: Local Government Secretariat, Makarfi, Kaduna State, Nigeria.",
+    "headquarters": "Headquarters: Makarfi Local Government Secretariat, Makarfi, Kaduna State, Nigeria.",
     "contact": [
-      { "icon": "phone", "text": "+234" },
+      { "icon": "phone", "text": "+234 803 569 5836" },
       { "icon": "mail", "text": "info@makarfilga.gov.ng" },
       { "icon": "mapPin", "text": "Makarfi, Kaduna State" }
-    ],
-    "socialLinks": [
-      { "name": "Facebook", "href": "https://www.facebook.com/", "icon": "facebook" },
-      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" },
-      { "name": "Instagram", "href": "https://www.instagram.com/", "icon": "instagram" },
-      { "name": "LinkedIn", "href": "https://www.linkedin.com/", "icon": "linkedin" },
-      { "name": "YouTube", "href": "https://www.youtube.com/", "icon": "youtube" }
     ],
     "quickLinks": [
       { "label": "Home", "href": "/" },
@@ -103,9 +95,13 @@
       { "label": "Government", "href": "/government" },
       { "label": "Projects", "href": "/projects" },
       { "label": "Agriculture", "href": "/agriculture" },
-      { "label": "News & Events", "href": "/news" }
+      { "label": "News", "href": "/news" }
     ],
-    "copyright": "© 2026 Makarfi Local Government Area. All rights reserved."
+    "copyright": "Makarfi Local Government. All rights reserved.",
+    "socialLinks": [
+      { "name": "Facebook", "href": "https://www.facebook.com/profile.php?id=61578938672835#", "icon": "facebook" },
+      { "name": "Twitter", "href": "https://x.com/", "icon": "twitter" }
+    ]
   },
   "aboutPage": {
     "hero": {
@@ -116,141 +112,127 @@
     "tabs": {
       "general": {
         "leadership": [
-          "Executive Chairman: Makarfi Local Government",
+          "Executive Chairman: Hon. Garba Muhammed Sabongari",
           "Vice Chairman: Deputy Chairman"
         ],
         "location": [
           "Location: Northern Kaduna State, Nigeria",
           "Headquarters: Makarfi",
-          "Neighboring LGAs: Ikara, Kubau, and Giwa."
+          "Coordinates: 11°17′52″N 7°58′09″E",
+          "Area: 541 km²",
+          "Neighboring LGAs: Ikara, Kubau, and Kudan, and parts of Kano State"
         ],
         "demographics": [
-          "Major Ethnic Groups: Hausa, Fulani.",
-          "Languages Spoken: Hausa and English."
+          "Population: 146,259 (2006 Census), estimated 150,000",
+          "Major Ethnic Groups: Hausa and Fulani",
+          "Languages Spoken: Hausa (predominant), English, Fulfulde",
+          "Religion: Predominantly Islam, with Christian communities"
         ],
         "economy": [
-          "Main Economic Activities: Farming, livestock rearing, and trading.",
-          "Climate: Tropical savannah climate suitable for agriculture."
+          "Main Economic Activities: Farming, livestock rearing, small-scale trading, and local industries",
+          "Climate: Tropical savannah climate suitable for agriculture",
+          "Notable Landmarks: Shehu Idris College of Health Sciences and Technology, Makarfi General Hospital"
         ]
       }
     },
     "geographyEconomy": {
       "title": "Geography & Economy",
-      "location": "Makarfi lies in northern Kaduna State with fertile land suitable for grain production.",
-      "climate": "The area experiences a rainy season between May and October and a dry season from November to April.",
+      "location": "Makarfi LGA lies in northern Kaduna State and falls within the Sudan Savannah zone. The area features a savannah landscape with vast arable lands that support agricultural activities.",
+      "climate": "The area experiences a tropical savanna climate with a rainy season between May and October and a dry season from November to April. The average temperature is 32°C, and average humidity is 29%.",
       "mainActivities": [
-        "Crop Farming: Maize, millet, sorghum, beans, and groundnuts.",
-        "Livestock Rearing: Cattle, goats, sheep, and poultry.",
-        "Local Markets: Agricultural trading across communities."
+        "Crop Farming: Maize, millet, sorghum, groundnuts, sugarcane, tomatoes, and soybeans.",
+        "Livestock Rearing: Cattle, goats, and poultry.",
+        "Local Markets: The Gubuchi and Ruma markets where a variety of goods are bought and sold.",
+        "Infrastructure: The Durum-Kuruntumawa road project, initiated to improve connectivity and support agriculture."
       ]
     }
   },
   "governmentPage": {
     "hero": {
-      "title": "Government",
-      "subtitle": "Leadership and administrative structure of Makarfi Local Government.",
+      "title": "Government of Makarfi",
+      "subtitle": "Learn about the administrative structure, elected representatives, and traditional institution in Makarfi Local Government Area.",
       "image": "/bg1.png"
     },
     "structure": {
-      "intro": "Makarfi Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
+      "intro": "Makarfi Local Government operates through a structured administrative system that combines democratic governance with community representation.",
       "executive": [
-        "Executive Chairman",
-        "Vice Chairman",
-        "Secretary to the Local Government",
-        "Supervisory Councilors responsible for major sectors."
+        "Executive Chairman: Heads the local government administration and policy implementation.",
+        "Vice Chairman: Supports executive administration and oversees delegated responsibilities."
       ],
       "legislative": [
-        "The Legislative Council consists of elected councilors representing wards in Makarfi.",
-        "A Speaker elected among the councilors presides over legislative sessions."
+        "Legislative Council: Comprised of elected councillors representing electoral wards.",
+        "Council deliberates and passes by-laws to support local governance."
       ],
       "departments": [
-        "Administration and Finance",
-        "Agriculture and Natural Resources",
+        "Works and Infrastructure",
         "Health Services",
-        "Works and Housing",
-        "Social Development",
-        "Education Authority"
+        "Agriculture and Rural Development",
+        "Education and Social Development",
+        "Finance and Administration"
       ]
     },
-    "electoralWards": [
-      { "ward": "Makarfi" },
-      { "ward": "Gubuchi" },
-      { "ward": "Gimi" },
-      { "ward": "Danguzuri" },
-      { "ward": "Mayere" }
-    ]
-  },
-  "projectsPage": {
-    "hero": {
-      "title": "Development Projects",
-      "subtitle": "Infrastructure and community development initiatives across Makarfi Local Government Area.",
-      "image": "/bg1.png"
-    },
-    "introParagraph": "Makarfi Local Government continues to invest in roads, schools, healthcare, and agricultural support to improve the quality of life for residents."
-  },
-  "agriculturePage": {
-    "hero": {
-      "title": "Agriculture in Makarfi",
-      "subtitle": "Agriculture remains the backbone of Makarfi's economy.",
-      "image": "/bg1.png"
-    },
-    "overview": "Farmers across Makarfi cultivate maize, millet, sorghum, beans, and groundnuts while raising livestock to support food production and local commerce.",
-    "majorCrops": [
+    "leadership": [
       {
-        "title": "Maize",
-        "description": "A staple crop cultivated widely across Makarfi communities.",
-        "image": "/maize.jpeg"
+        "name": "Senator Uba Sani",
+        "title": "Governor",
+        "image": "/uba.jpeg"
       },
       {
-        "title": "Millet & Sorghum",
-        "description": "Important grains grown by farmers across the LGA.",
-        "image": "/yam.png"
+        "name": "Hon. Sadiq Mamman Lagos",
+        "title": "Commissioner for Local Government Affairs",
+        "image": "/commissioner.PNG"
       },
       {
-        "title": "Livestock Rearing",
-        "description": "Cattle, goats, sheep, and poultry are raised across Makarfi communities.",
-        "image": "/livestock.jpeg"
+        "name": "Hon. Garba Muhammed Sabongari",
+        "title": "Chairman",
+        "image": "/chairman.png"
+      },
+      {
+        "name": "Hon. Deputy Chairman",
+        "title": "Vice Chairman",
+        "image": "/vice.jpg"
       }
-    ]
-  },
-  "newsPage": {
-    "metadata": {
-      "title": "News | Makarfi Local Government",
-      "description": "Latest news and announcements from Makarfi LGA"
-    },
-    "hero": {
-      "title": "Latest News",
-      "subtitle": "Updates and announcements from Makarfi Local Government.",
-      "image": "/bg1.png"
-    }
-  },
-  "galleryPage": {
-    "metadata": {
-      "title": "Gallery | Makarfi Local Government",
-      "description": "A visual journey through Makarfi LGA"
-    },
-    "hero": {
-      "title": "Makarfi Gallery",
-      "subtitle": "Explore the culture, communities, and agriculture of Makarfi Local Government Area.",
-      "image": "/bg1.png"
+    ],
+    "electoralWards": [
+      { "ward": "Makarfi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Gubuchi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Gimi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Danguzuri Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Mayere Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Gazara Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Rahama Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Dandamisa Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Kwatakware Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Dorayi Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Gangara Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" },
+      { "ward": "Gwanki Ward", "councillor": "Councillor Name Pending", "image": "/logo.png", "position": "Details will be updated soon" }
+    ],
+    "traditionalInstitution": {
+      "sectionTitle": "Traditional Institution",
+      "emirateHeading": "Emirate Council",
+      "districtsHeading": "Districts",
+      "roleHeading": "Role of Traditional Leaders",
+      "intro": "Makarfi lies within the Zazzau Emirate (also known as the Zaria Emirate), a first-class traditional state with headquarters in the city of Zaria. Traditional leadership plays an integral role in preserving cultural identity and complementing modern governance.",
+      "chiefdoms": [
+        "Zazzau Emirate: Headed by His Royal Highness, Alhaji (Amb.) Ahmed Nuhu Bamalli, CFR, the 19th Emir of Zazzau.",
+        "Makarfi District: Headed by a district head who collaborates closely with the local government to foster community cohesion and preserve cultural continuity."
+      ],
+      "role": "Traditional structures help maintain a balance between age-old customs and contemporary administrative practices, ensuring that the region's heritage remains vibrant and respected."
     }
   },
   "contactPage": {
     "hero": {
       "title": "Contact Us",
-      "subtitle": "Reach out to Makarfi Local Government for inquiries and information.",
+      "subtitle": "Reach out to Makarfi Local Government for inquiries and services.",
       "image": "/bg1.png"
     },
     "contactDetails": [
       { "icon": "mapPin", "text": "Makarfi Local Government Secretariat, Makarfi, Kaduna State, Nigeria" },
-      { "icon": "phone", "text": "+234" },
+      { "icon": "phone", "text": "+234 803 569 5836" },
       { "icon": "mail", "text": "info@makarfilga.gov.ng" }
     ],
     "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17051.244647029027!2d7.878620623619534!3d11.378712517447585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x11ad842b1152d921%3A0x53b479d77f814efb!2sMakarfi%2C%20Kano!5e1!3m2!1sen!2sng!4v1773485988465!5m2!1sen!2sng",
     "successMessage": "Thank you for contacting Makarfi Local Government. We will get back to you soon."
-  },
-  "upload": {
-    "defaultFolder": "makarfi/news"
   },
   "theme": {
     "colors": {
